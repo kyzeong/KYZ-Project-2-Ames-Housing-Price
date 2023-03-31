@@ -11,8 +11,8 @@ As a property agency, it is very important to us that we are able to estimate wh
 
 The datasets used in this project are listed below.
 
-* [`train.csv`](./datasets/train.csv): 2017 ACT Scores by State ([source](https://www.kaggle.com/competitions/dsi-us-11-project-2-regression-challenge/data?select=train.csv))
-* [`test.csv`](./datasets/test.csv): 2018 ACT Scores by State ([source](https://www.kaggle.com/competitions/dsi-us-11-project-2-regression-challenge/data?select=test.csv))
+* [`train.csv`](./datasets/train.csv): ([source](https://www.kaggle.com/competitions/dsi-us-11-project-2-regression-challenge/data?select=train.csv))
+* [`test.csv`](./datasets/test.csv): ([source](https://www.kaggle.com/competitions/dsi-us-11-project-2-regression-challenge/data?select=test.csv))
 
 ---
 
